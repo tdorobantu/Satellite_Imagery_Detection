@@ -2,7 +2,7 @@
 Convolutional Neural Network and Support Vector Machine for binary classification task involving statellite imagery.
 
 ## A Comparative Study of Support Vector Machines and Convolutional Neural Networks for Object Detection Tasks Involving Satellite Imagery
-Tudor Dorobantu \n
+Tudor Dorobantu  
 Tudor.Dorobantu@city.ac.uk
 
 ## Abstract
